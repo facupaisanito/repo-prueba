@@ -12,8 +12,7 @@
 #define TIEMPO_MED1   20000
 #define TIEMPO_MED2   20000
 #define DEBUG   0
-
-
+// saraza algo
 
 #define ledON digitalWrite(led,HIGH)
 #define ledOFF digitalWrite(led,LOW)
